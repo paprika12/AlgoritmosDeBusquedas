@@ -1,0 +1,427 @@
+Algoritmos de Busqueda
+
+ciudad de origen=
+>Verona
+ciudad de visita=
+>Valencia
+
+Algoritmo de Dijkstra
+El costo de la ciudad Verona a Valencia es: 2180
+El recorrido es:
+ Verona Lamezia Valencia
+
+Algoritmo Prim
+ciudades seleccionadas : 
+
+Strasbourg	Lanzarote
+Marsella	Agadir
+Ibiza	Malaga
+Girona	Alghero
+Santander	Alicante
+Alghero	Ancona
+Shannon	Athens
+Palermo	Barcelona-El Prat
+Roma Ciampino	Brindisi
+Marsella	Brest
+Frankfurt Hahn	Milan Bergamo
+Dublin	Birmingham
+Bruselas Charleroi	Biarritz
+Lamezia	Billund
+Alghero	Bolonia
+Bruselas Charleroi	Burdeos
+Girona	Bournemouth
+Lamezia	Bremen
+Roma Ciampino	Bari
+Lamezia	Berno
+Dublin	Bristol
+Salzburgo	Bruselas Zaventem
+Lamezia	Basel
+Salzburgo	Bratislava
+Tours	Budapest
+Manchester	Paris Beauvais
+Lamezia	Brive
+Nantes	Bydgoszcz
+Paris Beauvais	Beziers
+Roma Ciampino	Cagliari
+Bruselas Charleroi	Carcassonne
+Lamezia	Clermont Ferrand
+Roma Ciampino	Corfu
+Lamezia	Colonia
+Athens	Chania
+Alghero	Roma Ciampino
+Rome Fiumicino	Comiso
+Manchester	Bruselas Charleroi
+Roma Ciampino	Crotone
+Rome Fiumicino	Catania
+Alghero	Cuneo
+Dublin	Cardiff
+Cork	Dole
+Lamezia	Dinard
+Lamezia	Deauville-Normandía
+Lamezia	Dortmund
+Lamezia	Dublin
+Cork	St Etienne
+Dublin	Edimburgo
+Pescara	Cefalonia
+Bruselas Charleroi	Bergerac
+Lamezia	Eindhoven
+Dublin	East Midlands
+Marsella	Essaouira
+Cork	Faro
+Bari	Rome Fiumicino
+Madrid	Fez
+Lamezia	Baden-Baden
+Roma Ciampino	Memmingen (Munich West)
+Malaga	Munster
+Bruselas Charleroi	Nimes
+Paris Beauvais	Figari
+Madrid	Fuerteventura
+Wroclaw	Gdansk
+Lamezia	Grenoble
+Cagliari	Genova
+Perpiñan	Patras-Araxos
+Palermo	Girona
+Lamezia	Haugesund
+Lamezia	Frankfurt Hahn
+Barcelona-El Prat	Ibiza
+Bari	Kos
+Londres Luton	Kerry
+Milan Bergamo	Kalamata
+Gdansk	Cracovia
+Lamezia	Katowice
+Hamburg	Kaunas
+Dublin	Leeds Bradford
+Rzeszow	Lodz
+Milan Bergamo	Lourdes
+Copenhague	Derry
+Bruselas Charleroi	Almeria
+Lamezia	Leipzig
+Dublin	Londres Gatwick
+Lamezia	Limoges
+Marsella	Lille
+Cork	Lisbon
+Lamezia	Linz
+Strasbourg	Gran Canaria
+Dublin	Liverpool
+Milan Bergamo	Lappeenranta
+Bruselas Charleroi	La Rochelle
+Dublin	Londres Luton
+Lamezia	Lublin
+Ibiza	Madrid
+Barcelona-El Prat	Menorca
+Dublin	Manchester
+Bournemouth	Murcia
+Oslo Torp	Malta
+Frankfurt Hahn	Montpellier
+Valencia	Marsella
+Girona	Maastricht
+Lamezia	Niza
+Dublin	Newcastle
+Dublin	Nador
+Barcelona-El Prat	Knock Oeste de Irlanda
+Liverpool	Dusseldorf Weeze
+Lamezia	Nantes
+Marsella	Nuremberg
+Lamezia	Estocolmo Skavsta
+Hamburg	Oporto
+Madrid	Cork
+Liverpool	Osijek
+Lamezia	Ostrava
+Lamezia	Bucharest (Otopeni)
+Roma Ciampino	Oujda
+Marsella	Plovdiv
+Frankfurt Hahn	Perugia
+Cagliari	Pafos
+Chania	Perpiñan
+Bruselas Charleroi	Glasgow Prestwick
+Barcelona-El Prat	Poitiers
+Marsella	Parma
+Cagliari	Palma
+Marsella	Palermo
+Roma Ciampino	Poznan
+Rzeszow	Prague
+Bremen	Pisa
+Alghero	Pescara
+Milan Bergamo	Pula
+Frankfurt Hahn	Marrakech
+Strasbourg	Rabat
+Madrid	Rodez
+Bruselas Charleroi	Reus
+Palermo	Rhodes
+Athens	Riga
+Rzeszow	Rijeka
+Bruselas Charleroi	Oslo Rygge
+Gdansk	Rzeszow
+Rzeszow	Santiago
+Madrid	Santander
+Valladolid	Skelleftea
+Lamezia	Tesalonica
+Roma Ciampino	Shannon
+Cardiff	Londres Stansted
+Aarhus	Lamezia
+Roma Ciampino	Sevilla
+Santander	Strasbourg
+Lamezia	Berlin Schonefeld
+Colonia	Salzburgo
+Lamezia	Szczecin
+Rzeszow	Tenerife Norte
+Madrid	Tenerife Sur
+Strasbourg	Podgorica
+Bruselas Charleroi	Tallin
+Rzeszow	Toulon
+Bremen	Tanger
+Madrid	Trapani
+Cagliari	Oslo Torp
+Lamezia	Turin
+Alghero	Trieste
+Bari	Venecia Treviso
+Frankfurt Hahn	Tours
+Lamezia	Valencia
+Ibiza	Valladolid
+Barcelona-El Prat	Vilnius
+Rzeszow	Verona
+Bruselas Zaventem	Estocolmo Vasteras
+Lamezia	Vaxjo
+Nantes	Varsovia Modlin
+Hamburg	Wroclaw
+Wroclaw	París Vatry
+Cork	Jerez
+Barcelona-El Prat	Zadar
+Baden-Baden	Zaragoza
+Paris Beauvais	Zakynthos
+Bruselas Charleroi	Glasgow International
+Dublin	Copenhague
+Colonia	Hamburg
+Barcelona-El Prat	Gotemburgo Landvetter
+Wroclaw	Ponta Delgada
+Lisbon	Lorient
+Cork	Santorini National
+Athens	Stuttgart
+Manchester	Castellon
+Bristol	Eilat (Ovda)
+Budapest	Sofia
+
+
+Costo: 143891
+
+Algoritmo de Kruskal
+ciudades seleccionadas : 
+
+Ibiza 	 Valladolid
+Derry 	 Copenhague
+Barcelona-El Prat 	 Palermo
+Athens 	 Stuttgart
+Palermo 	 Rhodes
+Dublin 	 Liverpool
+Barcelona-El Prat 	 Menorca
+Gdansk 	 Wroclaw
+Girona 	 Palermo
+Dublin 	 Manchester
+Athens 	 Chania
+Barcelona-El Prat 	 Ibiza
+Dublin 	 Copenhague
+Lisbon 	 Cork
+Deauville-Normandía 	 Lamezia
+Malta 	 Oslo Torp
+Athens 	 Shannon
+Wroclaw 	 París Vatry
+Cardiff 	 Dublin
+Dublin 	 Leeds Bradford
+Birmingham 	 Dublin
+Bristol 	 Dublin
+Cagliari 	 Oslo Torp
+Dublin 	 East Midlands
+Dublin 	 Edimburgo
+Dublin 	 Nador
+Bari 	 Roma Ciampino
+Eindhoven 	 Lamezia
+Alghero 	 Pescara
+Alghero 	 Roma Ciampino
+Bari 	 Rome Fiumicino
+Liverpool 	 Dusseldorf Weeze
+Dinard 	 Lamezia
+Athens 	 Riga
+Roma Ciampino 	 Poznan
+Nantes 	 Lamezia
+Cardiff 	 Londres Stansted
+Cagliari 	 Roma Ciampino
+Liverpool 	 Osijek
+Dublin 	 Londres Luton
+Oporto 	 Hamburg
+Alghero 	 Cuneo
+Madrid 	 Cork
+Roma Ciampino 	 Sevilla
+Ibiza 	 Madrid
+Brindisi 	 Roma Ciampino
+Dublin 	 Lamezia
+Colonia 	 Salzburgo
+Faro 	 Cork
+Marsella 	 Palermo
+Alghero 	 Girona
+Madrid 	 Santander
+Dublin 	 Londres Gatwick
+Gdansk 	 Cracovia
+Roma Ciampino 	 Crotone
+Colonia 	 Lamezia
+Lamezia 	 Valencia
+Alghero 	 Bolonia
+Bremen 	 Pisa
+Milan Bergamo 	 Pula
+Milan Bergamo 	 Frankfurt Hahn
+Dortmund 	 Lamezia
+Alghero 	 Trieste
+Cagliari 	 Pafos
+Skelleftea 	 Valladolid
+Marsella 	 Parma
+Paris Beauvais 	 Manchester
+Alghero 	 Ancona
+Bratislava 	 Salzburgo
+Frankfurt Hahn 	 Lamezia
+Catania 	 Rome Fiumicino
+Bruselas Charleroi 	 Manchester
+Marsella 	 Valencia
+Madrid 	 Trapani
+Malaga 	 Ibiza
+Comiso 	 Rome Fiumicino
+Cagliari 	 Genova
+Budapest 	 Tours
+Barcelona-El Prat 	 Vilnius
+Bari 	 Venecia Treviso
+Bremen 	 Lamezia
+Frankfurt Hahn 	 Tours
+Kerry 	 Londres Luton
+Cagliari 	 Palma
+Wroclaw 	 Hamburg
+Bruselas Charleroi 	 La Rochelle
+Colonia 	 Hamburg
+Lamezia 	 Berlin Schonefeld
+Bruselas Zaventem 	 Salzburgo
+Santander 	 Strasbourg
+Baden-Baden 	 Lamezia
+Corfu 	 Roma Ciampino
+Limoges 	 Lamezia
+Marsella 	 Nuremberg
+Rabat 	 Strasbourg
+Paris Beauvais 	 Beziers
+Bruselas Charleroi 	 Reus
+Rzeszow 	 Tenerife Norte
+Bruselas Charleroi 	 Bergerac
+Basel 	 Lamezia
+Clermont Ferrand 	 Lamezia
+Roma Ciampino 	 Memmingen (Munich West)
+Billund 	 Lamezia
+Gdansk 	 Rzeszow
+Kaunas 	 Hamburg
+Burdeos 	 Bruselas Charleroi
+Fez 	 Madrid
+Bruselas Charleroi 	 Nimes
+Frankfurt Hahn 	 Montpellier
+Frankfurt Hahn 	 Marrakech
+Brive 	 Lamezia
+Baden-Baden 	 Zaragoza
+Chania 	 Perpiñan
+Madrid 	 Rodez
+Bruselas Zaventem 	 Estocolmo Vasteras
+Wroclaw 	 Ponta Delgada
+Rzeszow 	 Toulon
+Estocolmo Skavsta 	 Lamezia
+Lille 	 Marsella
+Nantes 	 Varsovia Modlin
+Grenoble 	 Lamezia
+Milan Bergamo 	 Lourdes
+Rijeka 	 Rzeszow
+Bydgoszcz 	 Nantes
+Carcassonne 	 Bruselas Charleroi
+Leipzig 	 Lamezia
+Barcelona-El Prat 	 Knock Oeste de Irlanda
+Cork 	 Santorini National
+Aarhus 	 Lamezia
+Alicante 	 Santander
+Prague 	 Rzeszow
+Barcelona-El Prat 	 Zadar
+Bruselas Charleroi 	 Glasgow Prestwick
+Roma Ciampino 	 Shannon
+Haugesund 	 Lamezia
+Biarritz 	 Bruselas Charleroi
+Paris Beauvais 	 Zakynthos
+Brest 	 Marsella
+Niza 	 Lamezia
+Bruselas Charleroi 	 Oslo Rygge
+Manchester 	 Castellon
+Lodz 	 Rzeszow
+Bari 	 Kos
+Lamezia 	 Szczecin
+Rzeszow 	 Verona
+Lamezia 	 Turin
+Girona 	 Maastricht
+Paris Beauvais 	 Figari
+Bournemouth 	 Girona
+Cefalonia 	 Pescara
+Patras-Araxos 	 Perpiñan
+Linz 	 Lamezia
+Roma Ciampino 	 Oujda
+Marsella 	 Plovdiv
+St Etienne 	 Cork
+Lanzarote 	 Strasbourg
+Berno 	 Lamezia
+Rzeszow 	 Santiago
+Bucharest (Otopeni) 	 Lamezia
+Bremen 	 Tanger
+Bristol 	 Eilat (Ovda)
+Dole 	 Cork
+Cork 	 Jerez
+Katowice 	 Lamezia
+Lamezia 	 Vaxjo
+Gran Canaria 	 Strasbourg
+Milan Bergamo 	 Kalamata
+Strasbourg 	 Podgorica
+Bruselas Charleroi 	 Tallin
+Bournemouth 	 Murcia
+Lisbon 	 Lorient
+Dublin 	 Newcastle
+Barcelona-El Prat 	 Gotemburgo Landvetter
+Ostrava 	 Lamezia
+Lublin 	 Lamezia
+Bruselas Charleroi 	 Almeria
+Frankfurt Hahn 	 Perugia
+Fuerteventura 	 Madrid
+Barcelona-El Prat 	 Poitiers
+Madrid 	 Tenerife Sur
+Tesalonica 	 Lamezia
+Essaouira 	 Marsella
+Bruselas Charleroi 	 Glasgow International
+Agadir 	 Marsella
+Malaga 	 Munster
+Milan Bergamo 	 Lappeenranta
+Budapest 	 Sofia
+
+
+Costo: 143891
+
+Algoritmo de Busqueda por Amplitud
+
+ciudades en abiertos:
+
+Patras-Araxos, Essaouira, Brest, Stuttgart, Varsovia Modlin, Cuneo, Santorini National, Jerez, Maastricht, Lille, Castellon, St Etienne, Dole, Sofia, Munster, Bournemouth, Eilat (Ovda), Lorient, Vaxjo, Estocolmo Vasteras, Venecia Treviso, Berlin Schonefeld, Tesalonica, Palma, Bucharest (Otopeni), Ostrava, Estocolmo Skavsta, Niza, Linz, Leipzig, Haugesund, Genova, Dortmund, Deauville-Normandía, Dinard, Clermont Ferrand, Brive, Berno, Aarhus, Turin, Limoges, Derry, Perugia, Kerry, 
+
+ciudades cerrados : 
+
+Verona, Barcelona-El Prat, Milan Bergamo, Bremen, Paris Beauvais, Chania, Roma Ciampino, Bruselas Charleroi, Dublin, Frankfurt Hahn, Liverpool, Madrid, Rzeszow, Lamezia, Lanzarote, Malaga, Birmingham, Bolonia, Bruselas Zaventem, Budapest, Colonia, Edimburgo, East Midlands, Rome Fiumicino, Fez, Fuerteventura, Ibiza, Gran Canaria, Menorca, Manchester, Knock Oeste de Irlanda, Oporto, Cork, Poitiers, Palermo, Santander, Skelleftea, Strasbourg, Salzburgo, Tenerife Sur, Podgorica, Trieste, Tours, Vilnius, Wroclaw, Zadar, Gotemburgo Landvetter, Alghero, Alicante, Athens, Brindisi, Billund, Bari, Bristol, Bratislava, Cagliari, Corfu, Comiso, Crotone, Catania, Cefalonia, Eindhoven, Kos, Kalamata, Cracovia, Lourdes, Lisbon, Lappeenranta, Malta, Dusseldorf Weeze, Nantes, Osijek, Oujda, Poznan, Pula, Rabat, Riga, Rijeka, Shannon, Sevilla, Toulon, Tanger, Oslo Torp, Valladolid, París Vatry, Zakynthos, Hamburg, Ponta Delgada, Faro, Girona, Pisa, Beziers, Figari, Plovdiv, Pescara, Rodez, Londres Stansted, Trapani, Zaragoza, Memmingen (Munich West), Katowice, Leeds Bradford, Marsella, Perpiñan, Copenhague, Burdeos, Baden-Baden, Gdansk, Prague, Agadir, Ancona, Biarritz, Carcassonne, Bergerac, Nimes, Almeria, La Rochelle, Montpellier, Pafos, Glasgow Prestwick, Marrakech, Reus, Rhodes, Oslo Rygge, Tallin, Glasgow International, Basel, Bydgoszcz, Cardiff, Grenoble, Kaunas, Lodz, Londres Gatwick, Londres Luton, Lublin, Murcia, Newcastle, Nador, Nuremberg, Parma, Santiago, Szczecin, Tenerife Norte, Valencia
+
+Camino : 
+
+Verona, Dublin, Valencia
+
+Algoritmo de Busqueda por Profundidad
+
+ciudades en abiertos:
+
+Tours, Venecia Treviso, Trieste, Turin, Tanger, Toulon, Tallin, Podgorica, Tenerife Norte, Szczecin, Salzburgo, Berlin Schonefeld, Strasbourg, Sevilla, Londres Stansted, Shannon, Tesalonica, Skelleftea, Santander, Santiago, Oslo Rygge, Rijeka, Riga, Rhodes, Reus, Rodez, Rabat, Marrakech, Pula, Pescara, Pisa, Prague, Poznan, Palermo, Palma, Parma, Glasgow Prestwick, Perpiñan, Pafos, Perugia, Oujda, Bucharest (Otopeni), Ostrava, Osijek, Cork, Oporto, Estocolmo Skavsta, Nantes, Dusseldorf Weeze, Niza, Marsella, Malta, Murcia, Lublin, La Rochelle, Gran Canaria, Linz, Lisbon, Limoges, Leipzig, Almeria, Derry, Lourdes, Lodz, Kaunas, Katowice, Cracovia, Kerry, Kos, Ibiza, Haugesund, Girona, Genova, Grenoble, Gdansk, Fuerteventura, Memmingen (Munich West), Baden-Baden, Fez, Faro, Eindhoven, Bergerac, Cefalonia, Edimburgo, Dortmund, Deauville-Normandía, Dinard, Comiso, Colonia, Corfu, Clermont Ferrand, Carcassonne, Bydgoszcz, Brive, Budapest, Bratislava, Basel, Berno, Bari, Burdeos, Bolonia, Billund, Biarritz, Brindisi, Athens, Ancona, Alicante, Alghero, Malaga, Lanzarote, Aarhus, Rzeszow, Madrid, Liverpool, Frankfurt Hahn, Dublin, Bruselas Charleroi, Roma Ciampino, Chania, Paris Beauvais, Bremen, Milan Bergamo, Barcelona-El Prat, 
+
+ciudades en cerrados : 
+
+Verona, Lamezia, Eilat (Ovda), Bristol, Beziers, Manchester, Castellon, Londres Luton, Hamburg, Nimes, Lorient, Ponta Delgada, Copenhague, Zakynthos, Zaragoza, Zadar, París Vatry, East Midlands, Menorca, Wroclaw, Oslo Torp, Rome Fiumicino, Catania, Crotone, Bruselas Zaventem, Cuneo, Cagliari, Vaxjo, Estocolmo Vasteras, Valladolid, Valencia
+
+Camino : 
+
+Verona, Lamezia, Valencia
